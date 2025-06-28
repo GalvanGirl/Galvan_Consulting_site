@@ -1,4 +1,4 @@
-export default function HomePage() {
+export default function Home() {
   return (
     <main className="min-h-screen bg-white text-gray-900 p-6">
       <header className="text-center py-10 border-b border-gray-200">
